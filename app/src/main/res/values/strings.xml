@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OportunIA Maps</string>
+    <string name="app_title">Map Based Internship Locator</string>
+    <string name="student_map">Student Map</string>
+    <string name="company_map">Company Map</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="title_welcome">Welcome to Oportunia</string>
+    <string name="main_register_subtitle">Create an account</string>
+    <string name="main_register_subtitle_sub">Fill the following fields</string>
+    <string name="email_field">Email</string>
+    <string name="password_field">Password</string>
+    <string name="confirm_password_field">Confirm Password</string>
+    <string name="main_register">Register</string>
+
+    <string name="preparing_text">¡Preparing everything!</string>
+    <string name="name_field">Introduce your name</string>
+    <string name="last_name_field">Introduce your last name</string>
+    <string name="id_field">Introduce your id card</string>
+    <string name="personal_info_field">Tell about yourself</string>
+    <string name="experience_field">Describe your experience</string>
+    <string name="main_login_subtitle">Login with your account</string>
+    <string name="interests_field">What are your interests</string>
+    <string name="next_button">Next</string>
+
+    <string name="chosee_skills_field">Choose Your Skills</string>
+    <string name="main_login">Login</string>
+    <string name="no_account">No account?</string>
+    <string name="register_here">Register here</string>
+    <string name="map">Map</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="choose_rating_label">Choose Rating</string>
+    <string name="internships_search_label">Internship Search</string>
+    <string name="student_search_label">Student Search</string>
+    <string name="request_search_label">Request Search</string>
+    <string name="search_company_label">Search Company</string>
+    <string name="filter_rating_label">Filter by</string>
+    <string name="search_label">Search</string>
+    <string name="go_student_screen_label">Go to Student Screen</string>
+    <string name="go_company_screen_label">Go to Company Screen</string>
+
+    <string name="snippet_click_internships">Click for Internships</string>
+    <string name="add_marker_description">Add Marker</string>
+    <string name="logout_button">Logout</string>
+    <string name="tap_to_add_marker">Tap on the map to add markers</string>
+
+    <string name="internships_for">Internships for %1$s</string>
+    <string name="no_internships_available">No internships available.</string>
+    <string name="location_details_unavailable">Location details not available.</string>
+    <string name="back_button">Back</string>
+    <string name="add_button">Add</string>
+
+    <string name="request_success_message">Request sent successfully</string>
+
+    <string name="request_delete_message">Request delete successfully</string>
+
+    <string name="search_by_company_name">Search by company name</string>
+    <string name="search_by_internship_details">Search by internship details</string>
+    <string name="search_placeholder">Search</string>
+    <string name="select_minimum_stars">Select minimum stars</string>
+    <string name="company_name">Company Name</string>
+    <string name="internship_details">Internship Details</string>
+
+    <string name="rating_stars">%1$s stars</string>
+
+    <string name="clean">Clean</string>
+
+    <string name="company_information">Company Information</string>
+    <string name="internships_button">Internships</string>
+
+    <string name="invalid_login">Invalid email or password</string>
+
+    <string name="no_requests_available">No requests available</string>
+
+    <string name="no_student_info_available">No student information available.</string>
+    <string name="profile_picture_content_description">Profile Picture</string>
+    <string name="rating_format">⭐ %1$s</string>
+    <string name="identification">Identification</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="experience">Experience</string>
+    <string name="add_internship_title" translatable="false">Add a new Internship</string>
+
+
+    <string name="no_company_info_available">No company information available.</string>
+
+    <string name="approved">Approved</string>
+    <string name="denied">Denied</string>
+    <string name="requested" translatable="false">Requested</string>
+    <string name="cancel_request" translatable="false">Cancel</string>
+
+    <string name="state">State</string>
+
+    <string name="company">Company</string>
+
+    <string name="example">Example</string>
+    <string name="name">Name</string>
+
+    <string name="description">Description:</string>
+    <string name="history">History:</string>
+    <string name="mission">Mission:</string>
+    <string name="vision">Vision:</string>
+    <string name="contact">Contact:</string>
+    <string name="corporate_culture">Corporate Culture:</string>
+    <string name="rating">Rating:</string>
+    <string name="internship_type">Internship Type:</string>
+
+    <string name="apply">Apply</string>
+
+    <string name="internship">Internship</string>
+
+    <string name="student_ratings_title">Student Ratings</string>
+    <string name="company_ratings_title">Company Ratings</string>
+    <string name="no_ratings_available">No ratings available.</string>
+
+    <string name="rate_button">Rate</string>
+
+    <string name="rate_company_title">Rate Company</string>
+    <string name="comment_label">Comment</string>
+    <string name="send_button">Send</string>
+
+    <string name="rate_student_title">Rate Student</string>
+
+    <string name="register_button">Register</string>
+
+    <string name="student_image_upload_success">Student image upload success</string>
+
+    <string name="select_user_type">Select user type:</string>
+    <string name="role_student">Student</string>
+    <string name="role_company">Company</string>
+
+    <string name="student_requests_title">Student Requests</string>
+    <string name="pending">Pending</string>
+    <string name="state_format">State: %1$s</string>
+    <string name="close">Close</string>
+
+    <string name="accepted">Accepted</string>
+    <string name="rejected">Rejected</string>
+
+    <string name="deactivate">Deactivate</string>
+
+    <string name="load_image">Load Image</string>
+    <string name="select_profile_image">Select a profile image:</string>
+    <string name="select_image">Select image</string>
+    <string name="representative_info">Representative Information</string>
+    <string name="label_first_name">First name</string>
+    <string name="label_last_name">Last name</string>
+    <string name="company_info">Company Information</string>
+    <string name="label_company_name">Company name</string>
+    <string name="label_description">Description</string>
+    <string name="label_history">History</string>
+    <string name="label_mission">Mission</string>
+    <string name="label_vision">Vision</string>
+    <string name="label_corporate_culture">Corporate culture</string>
+    <string name="label_contact">Contact</string>
+    <string name="internship_type_title">Internship type:</string>
+    <string name="internship_type_inp">In-person</string>
+    <string name="internship_type_mix">Hybrid</string>
+    <string name="internship_type_rem">Remote</string>
+    <string name="register_company_button">Register Company</string>
+</resources>
