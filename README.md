@@ -1,12 +1,12 @@
-# OportuniaApp - Android CLEAN Architecture Example
+# OportuniaApp - Android CLEAN Architecture
 
 ## Overview
 
-# OportuniaApp is a demonstration project for computer science students to learn CLEAN Architecture in
+OportuniaApp is a demonstration project for computer science students to learn CLEAN Architecture in
 Android development.
-# Mobile application connecting students with internship opportunities and companies with emerging talent, implementing Clean Architecture and modern Android best practices.
+Mobile application connecting students with internship opportunities and companies with emerging talent, implementing Clean Architecture and modern Android best practices.
 
-# Internship Connect 🔍📱
+# Skills
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
