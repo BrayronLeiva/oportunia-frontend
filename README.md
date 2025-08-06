@@ -1,10 +1,10 @@
-# TaskApp - Android CLEAN Architecture Example
+# OportuniaApp - Android CLEAN Architecture Example
 
 ## Overview
 
-TaskApp is a demonstration project for computer science students to learn CLEAN Architecture in
-Android development. This project implements a task management application using modern Android
-development practices.
+# OportuniaApp is a demonstration project for computer science students to learn CLEAN Architecture in
+Android development.
+# Mobile application connecting students with internship opportunities and companies with emerging talent, implementing Clean Architecture and modern Android best practices.
 
 # Internship Connect 🔍📱
 
@@ -13,24 +13,23 @@ development practices.
 ![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-0175C2?style=for-the-badge&logo=jetpack-compose)
 ![Hilt](https://img.shields.io/badge/DI-Hilt-430098?style=for-the-badge)
 
-Aplicación móvil que conecta estudiantes con oportunidades de pasantías y empresas con talento emergente, implementando Clean Architecture y mejores prácticas de Android moderno.
 
-## 🚀 Características Clave
+## 🚀 Key Features
 
-### 👨🎓 Para Estudiantes
-- Perfil personalizado con habilidades y experiencia
-- Búsqueda avanzada con filtros (ubicación, industria, etc.)
-- Sistema de aplicación integrado
-- Notificaciones en tiempo real
+### 👨🎓 For Students
+- Customizable profile with skills and experience
+- Advanced search with filters (location, industry, etc.)
+- Integrated application system
+- Real-time notifications
 
-### 🏢 Para Empresas
-- Publicación y gestión de vacantes
-- Dashboard de candidatos
-- Sistema de evaluación integrado
+### � For Companies
+- Job post creation and management
+- Candidate dashboard
+- Integrated evaluation system
 
-## 🏗️ Arquitectura Técnica
+## 🏗️ Technical Architecture
 
-### Diagrama de Capas
+### Layer Diagram
 Presentation (UI) → Domain ← Data
 ↑ ↑
 ViewModels Use Cases
@@ -39,16 +38,16 @@ Composable Repositories
 
 text
 
-### Stack Tecnológico
-| Capa            | Tecnologías                                                                 |
-|-----------------|-----------------------------------------------------------------------------|
-| **Presentación** | Jetpack Compose, ViewModel, Navigation Component, Material 3               |
-| **Dominio**     | Use Cases, Modelos de Dominio, Corrutinas                                  |
-| **Datos**       | Retrofit, Room, DataStore, Hilt, Gson                                      |
+### Technology Stack
+| Layer            | Technologies                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| **Presentation** | Jetpack Compose, ViewModel, Navigation Component, Material 3               |
+| **Domain**       | Use Cases, Domain Models, Coroutines                                       |
+| **Data**         | Retrofit, Room, DataStore, Hilt, Gson                                      |
 
-## ⚙️ Configuración
+## ⚙️ Configuration
 
-### Requisitos
+### Requirements
 - Android Studio Flamingo (2022.2.1)+
 - SDK Android API 26+
 - Kotlin 1.8.20+
